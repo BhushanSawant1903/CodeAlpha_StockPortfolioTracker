@@ -1,0 +1,6 @@
+===== PORTFOLIO SUMMARY =====
+AAPL: 8 shares = $1440.00
+TSLA: 2 shares = $500.00
+MSFT: 1 shares = $330.00
+
+Total Portfolio Value: $2270.00

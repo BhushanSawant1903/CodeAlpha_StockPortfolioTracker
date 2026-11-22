@@ -1,7 +1,8 @@
 # Stock Portfolio Tracker — CodeAlpha Internship
 
 ## Project Overview
-A Python-based stock portfolio tracker developed as part of the CodeAlpha Python Programming Internship. The program calculates the total investment value using predefined stock prices and user-entered quantities.
+A Python-based stock portfolio tracker developed as part of the CodeAlpha Python Programming Internship.
+The program calculates the total investment value using predefined stock prices and user-entered quantities.
 
 ## Features
 - Supports predefined stocks: AAPL, TSLA, GOOGL, and MSFT
